@@ -1,0 +1,14 @@
+/*
+ * STEP_HAL_Config.h
+ *
+ *  Created on: Oct 8, 2023
+ *      Author: Lenovo
+ */
+
+#ifndef HAL_STEPPER_MOTOR_DRIVER_STEP_HAL_CONFIG_H_
+#define HAL_STEPPER_MOTOR_DRIVER_STEP_HAL_CONFIG_H_
+
+
+#define STEP_PORT	DIO_PORTC
+
+#endif /* HAL_STEPPER_MOTOR_DRIVER_STEP_HAL_CONFIG_H_ */
